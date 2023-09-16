@@ -9,7 +9,7 @@
     <string name="apresentacaoTitle">Apresentação:</string>
     <string name="apresentacaoDesc">Olá! me chamo Matheus Seleguin Rossete e sou estudante de engenharia da computação na Fundação Santo André.</string>
     <string name="dadosPessoaisTitle">Dados Pessoais:</string>
-    <string name="dadosPessoaisDesc">• Data de nascimento: 28/07/2003\n• Gênero: Masculino\n• Deficiência: Não\n• Endereço: Rua José Dangelo, 343, Santo André, SP</string>
+    <string name="dadosPessoaisDesc">• Data de nascimento: 28/07/2003\n• Gênero: Masculino\n• Deficiência: Não\n• Localização: Santo André, SP</string>
     <string name="fotoPerfilDesc">Perfil do candidato</string>
     <string name="experienciaAcademicaTitle">Experiência acadêmica:</string>
     <string name="exp1Desc">• Grau: Graduação\n• Status: Em andamento (término em 2026)\n• Curso: Engenharia da computação\n• Instituição: FSA - Fundação Santo André</string>
